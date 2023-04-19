@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "946344353847",
+    "project_id": "airdrop-5a52d",
+    "storage_bucket": "airdrop-5a52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946344353847:android:63309fc7143c33482edfb2",
+        "android_client_info": {
+          "package_name": "com.example.air_drop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946344353847-ec4i5havvvs6js4ikholep0a6es4h0cd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.air_drop",
+            "certificate_hash": "8ecd1f40954689a68b267d69cb06b2d0ea5587de"
+          }
+        },
+        {
+          "client_id": "946344353847-foroh7alol11ro3b1862kmm5t8k17egg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvMyfakMjEZsJBt7bbPdbcN7WULu7Khc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946344353847-foroh7alol11ro3b1862kmm5t8k17egg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
